@@ -1,5 +1,7 @@
 # Open Parking AI — knowhow
 
+> **Vehicle ID is not in these repositories.** It is Open Parking AI's own vehicle identification service, which recognises a car from its pictures, colour, shape and plate together. Garage owners can use it **free, through an API**: ask for access at [openparking.ai](https://openparking.ai). Once we have confirmed you run a real garage, we send you your key.
+
 The method behind Open Parking AI: how the system is put together, why it is put
 together that way, and what it costs to run one. Everything we know about
 building parking automation, published as we learn it.
